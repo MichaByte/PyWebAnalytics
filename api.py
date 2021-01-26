@@ -57,4 +57,4 @@ def endpoint():
     write_to_file()
     return jsonify(browser)
 
-app.run(port=80, debug=False)
+app.run(port=8000, debug=False)
