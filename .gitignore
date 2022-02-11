@@ -1,3 +1,4 @@
-/.DS_Store
-/__pycache__
-/stats.picklejar
+__pycache__/
+node_modules/
+.vscode/
+.DS_Store
