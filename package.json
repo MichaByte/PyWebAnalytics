@@ -1,0 +1,11 @@
+{
+  "name": "pywebanalytics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/2231puppy/PyWebAnalytics",
+  "author": "2231puppy <2231puppy@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
